@@ -4,4 +4,4 @@
 Демонстрация работы - https://kappa.lol/7yX82
 
 ## Часть 2
-tbc
+Демонстрация работы с docker-compose - https://kappa.lol/DtR7L
