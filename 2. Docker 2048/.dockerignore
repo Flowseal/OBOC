@@ -1,2 +1,5 @@
 run.bat
 run_compose.bat
+Dockerfile
+docker-compose.yml
+README.md
